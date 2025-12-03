@@ -14,7 +14,7 @@ org_settings:
   server_settings:
     server_url: $FLEET_URL
   org_info:
-    org_name: Rutgers_Fleet
+    org_name: RutgersFleet
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
   features:
