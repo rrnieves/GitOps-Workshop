@@ -30,8 +30,8 @@ team_settings:
 software:
   controls:
     macos_settings:
-      -path:.../lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
-      -path:.../lib/macos/configuration-profiles/passcode-settings-ddm.json
+      -path: ../lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
+      -path: ../lib/macos/configuration-profiles/passcode-settings-ddm.json
       controls:
         scripts:
           -path: ../lib/windows/scripts/set-wallpaper.ps1
