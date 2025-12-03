@@ -6,3 +6,5 @@ echo "Configuring Zoom! Here's a chicken
 \\_//)
  \_/_)
   _|_"
+post_install_script:
+   path: ../scripts/zoom-config.sh
